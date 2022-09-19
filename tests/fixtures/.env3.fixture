@@ -1,0 +1,11 @@
+# Comment
+TEST3=value3
+TEST4="value4"
+TEST5= "value5"
+TEST6 = " val"ue6"
+TEST7 = value7"
+TEST8:value8
+TEST9:"value9" # A wild comment appears! # ANOTHER ONE
+TEST10: "value10"
+TEST11 : " val"ue11"
+TEST12 : value12"
